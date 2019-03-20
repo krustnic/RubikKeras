@@ -1,6 +1,6 @@
 # Keras Rubik's cube detection and sides recognition
 
-This is a prototype of keras model that detect and recognize Rubik's cube based on the small (~137k param) 
+This is a prototype of keras model that detect and recognize Rubik's cube based on the small (~136k param) 
 segmentation u-net like model. Cube should be rotated so camera see three sides. 
 
 Demo video:
